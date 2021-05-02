@@ -3358,8 +3358,8 @@ androidx.core.util.Pools$SynchronizedPool
 kotlin.jvm.functions.Function15
 com.google.common.collect.StandardTable$Column$EntrySetIterator
 com.google.common.util.concurrent.AggregateFutureState$SafeAtomicHelper
-androidx.core.app.ShareCompat
 androidx.core.content.SharedPreferencesCompat$EditorCompat
+androidx.core.app.ShareCompat
 com.google.common.escape.UnicodeEscaper
 com.google.common.collect.ForwardingNavigableMap
 com.google.common.io.FileWriteMode

@@ -4,7 +4,7 @@ class WhereYouStopList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return AspectRatio(
-      aspectRatio: 375 / 90,
+      aspectRatio: 375 / 93,
       child: Container(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
