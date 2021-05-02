@@ -485,8 +485,8 @@ kotlin.sequences.SubSequence$iterator$1
 com.google.common.primitives.Platform
 io.flutter.embedding.android.FlutterFragment$ActivityCallThrough
 kotlin.collections.RingBuffer
-com.google.common.net.MediaType$1
 com.google.common.hash.MacHashFunction
+com.google.common.net.MediaType$1
 com.google.common.graph.Traverser$TreeTraverser$2
 com.google.common.graph.AbstractNetwork$1
 kotlin.jvm.internal.Ref$ObjectRef
@@ -3358,8 +3358,8 @@ androidx.core.util.Pools$SynchronizedPool
 kotlin.jvm.functions.Function15
 com.google.common.collect.StandardTable$Column$EntrySetIterator
 com.google.common.util.concurrent.AggregateFutureState$SafeAtomicHelper
-androidx.core.content.SharedPreferencesCompat$EditorCompat
 androidx.core.app.ShareCompat
+androidx.core.content.SharedPreferencesCompat$EditorCompat
 com.google.common.escape.UnicodeEscaper
 com.google.common.collect.ForwardingNavigableMap
 com.google.common.io.FileWriteMode
